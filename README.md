@@ -10,6 +10,6 @@
 
 I am a Software Engineer at KCT (Jakarta, Indonesia) 💻
 
-- ⚙️ Stack: PHP, Kotlin, PHP, SQL, Nativescript
+- ⚙️ Stack: PHP, Kotlin, SQL, Nativescript
 - 🏢 I'm currently working on some **Kotlin Projects**
 - 🌱 I'm currently learning about Python
