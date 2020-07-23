@@ -6,7 +6,7 @@
 
 💻 I'm a Software Engineer at ``kct.co.id``
 
-- ⚙️ Stack: ``PHP``, ``Kotlin``, ``SQL``, ``Nativescript``
+- ⚙️ Stack: ``PHP``, ``Kotlin``, ``Nativescript``
 - 🏢 I'm currently working on some **Kotlin Projects**
 - 🌱 I'm currently learning about Python, ReactJS
 - 📫 I live in Jakarta, Indonesia
