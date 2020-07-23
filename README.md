@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dyazincahya&show_icons=true">
 
-I am a Software Engineer at KCT (Jakarta, Indonesia) 💻
+💻 I'm a Software Engineer at KCT (Jakarta, Indonesia)
 
 - ⚙️ Stack: ``PHP``, ``Kotlin``, ``SQL``, ``Nativescript``, ``Javascript``
 - 🏢 I'm currently working on some **Kotlin Projects**
