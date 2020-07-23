@@ -1,6 +1,4 @@
-<table width="100%">
-<tr>
-<td>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dyazincahya&show_icons=true">
 
 ## Hi 👋, I'm Kang Cahya
 
@@ -9,12 +7,6 @@ I am a Software Engineer at KCT (Jakarta, Indonesia) 💻
 - ⚙️ Stack: ``PHP``, ``Kotlin``, ``SQL``, ``Nativescript``, ``Javascript``
 - 🏢 I'm currently working on some **Kotlin Projects**
 - 🌱 I'm currently learning about Python, ReactJS
-</td>
-<td>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dyazincahya&show_icons=true"> 
-</td>
-</tr>
-</table>
 
 <p align="center" width="100%">
 <a href="https://www.behance.net/vierundsieben" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" title="Behance" alt="vierundsieben" height="30" width="30" /></a>
