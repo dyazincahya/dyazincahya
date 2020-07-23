@@ -9,7 +9,7 @@
 - ⚙️ Stack: ``Kotlin``, ``Nativescript``, ``PHP``
 - 🏢 I'm currently working on some **Kotlin Projects**
 - 🌱 I'm currently learning about Python, ReactJS
-- 📫 Now I stay in Jakarta, Indonesia
+- 📫 Stay in Jakarta, Indonesia
 
 <p align="center">
 <a href="https://dev.to/dyazincahya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dyazincahya" height="20" width="20" /></a>
