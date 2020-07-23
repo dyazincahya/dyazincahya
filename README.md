@@ -1,12 +1,14 @@
 ## Hi 👋, I'm Kang Cahya
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dyazincahya&show_icons=true">
+
 I am a Software Engineer at KCT (Jakarta, Indonesia) 💻
 
 - ⚙️ Stack: ``PHP``, ``Kotlin``, ``SQL``, ``Nativescript``, ``Javascript``
 - 🏢 I'm currently working on some **Kotlin Projects**
 - 🌱 I'm currently learning about Python, ReactJS
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=dyazincahya&show_icons=true"></p>
+
 
 <p>
 <a href="https://dev.to/dyazincahya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dyazincahya" height="20" width="20" /></a>
