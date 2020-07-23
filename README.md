@@ -19,6 +19,4 @@ I am a Software Engineer at KCT (Jakarta, Indonesia) 💻
 <a href="https://medium.com/k4ng" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="k4ng" height="20" width="20" /></a>
 </p>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=dyazincahya" alt="dyazincahya" />
-</p>
+<p><img src="https://komarev.com/ghpvc/?username=dyazincahya" alt="dyazincahya" /></p>
