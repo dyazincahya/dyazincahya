@@ -1,8 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dyazincahya&show_icons=true"> 
 
-<img src="https://komarev.com/ghpvc/?username=dyazincahya" alt="dyazincahya" />
-
-## Hi there I'm Kang Cahya
+## Hi 👋, I'm Kang Cahya
 
 [![kang-cahya.com](https://img.shields.io/static/v1?label=Website&message=%20&logo=Php&style=flat-square&logoColor=white)](https://kang-cahya.com)
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&logo=Instagram&style=flat-square&logoColor=red)](https://www.instagram.com/vierundsieben/)
@@ -15,3 +13,5 @@ I am a Software Engineer at KCT (Jakarta, Indonesia) 💻
 - ⚙️ Stack: ``PHP``, ``Kotlin``, ``SQL``, ``Nativescript``, ``Javascript``
 - 🏢 I'm currently working on some **Kotlin Projects**
 - 🌱 I'm currently learning about Python, ReactJS
+
+<img align="right" src="https://komarev.com/ghpvc/?username=dyazincahya" alt="dyazincahya" />
