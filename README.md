@@ -13,3 +13,7 @@ I am a Software Engineer at KCT (Jakarta, Indonesia) 💻
 - ⚙️ Stack: ``PHP``, ``Kotlin``, ``SQL``, ``Nativescript``, ``Javascript``
 - 🏢 I'm currently working on some **Kotlin Projects**
 - 🌱 I'm currently learning about Python, ReactJS
+
+<p align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=dyazincahya" alt="dyazincahya" />
+ </p>
