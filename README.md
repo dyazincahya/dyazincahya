@@ -10,7 +10,7 @@ I am a Software Engineer at KCT (Jakarta, Indonesia) 💻
 - 🏢 I'm currently working on some **Kotlin Projects**
 - 🌱 I'm currently learning about Python, ReactJS
 
-<p>
+<p align="center">
 <a href="https://dev.to/dyazincahya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dyazincahya" height="20" width="20" /></a>
 <a href="https://twitter.com/cahyadyazin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cahyadyazin" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/cahyadyazin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cahyadyazin" height="20" width="20" /></a>
