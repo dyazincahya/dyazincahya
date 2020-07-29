@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=dyazincahya" alt="dyazincahya" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dyazincahya&show_icons=false" alt="dyazincahya" />
 
 <h1>Hi 👋, I'm Kang Cahya</h1>
 
@@ -21,3 +21,5 @@
 <a href="https://www.behance.net/vierundsieben" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="vierundsieben" height="20" width="20" /></a>
 <a href="https://medium.com/k4ng" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="k4ng" height="20" width="20" /></a>
 </p>
+
+
