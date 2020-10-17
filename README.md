@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=dyazincahya" alt="dyazincahya" />
 
-<h1>Hi 👋, I'm Kang Cahya</h1>
+<h1>Hi 👋, I'm Cahya</h1>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dyazincahya&show_icons=false">
 
