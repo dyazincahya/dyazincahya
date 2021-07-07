@@ -2,7 +2,7 @@
 
 <h1>Hi 👋, I'm Cahya</h1>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dyazincahya&show_icons=false">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyazincahya&layout=compact">
 
 💻 I'm a Software Engineer at ``kct.co.id``
 
@@ -22,8 +22,17 @@
 <a href="https://medium.com/k4ng" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="k4ng" height="20" width="20" /></a>
 </p>
 
-<br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyazincahya)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
+## Github & Wakatime Stat
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=dyazincahya&repo=quran-api-with-php-codeigniter">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dyazincahya&show_icons=false">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=dyazincahya&layout=compact">
+
 
 
