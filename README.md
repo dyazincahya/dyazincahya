@@ -28,8 +28,6 @@
 
 ## Github & Wakatime Stat
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=dyazincahya&repo=quran-api-with-php-codeigniter">
-
 <img src="https://github-readme-stats.vercel.app/api?username=dyazincahya&show_icons=false">
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dyazincahya&layout=compact">
