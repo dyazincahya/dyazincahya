@@ -22,4 +22,8 @@
 <a href="https://medium.com/k4ng" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="k4ng" height="20" width="20" /></a>
 </p>
 
+<br/><br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyazincahya)](https://github.com/anuraghazra/github-readme-stats)
+
 
