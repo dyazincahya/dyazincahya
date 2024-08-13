@@ -6,8 +6,7 @@
 💻 I'm a Software Engineer at ``kct.co.id``
 
 - ⚙️ Stack: ``Java``, ``Nativescript``, ``Angular``
-- 🏢 I'm currently working on some **Java Spring Boot Projects & Angular**
-- 🌱 I'm currently learning about Java Spring Boot, Angular
+- 🏢 I'm currently working on some **Java Spring Boot, Angular and Nativescript**
 - 📫 Stay in Jakarta, Indonesia
 
 
