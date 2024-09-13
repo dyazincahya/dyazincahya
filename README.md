@@ -3,14 +3,11 @@
 
 <h1>Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30" alt="hi">, I'm Cahya</h1>
 
-💻 I'm a Software Engineer at ``kct.co.id``
-
 - 🏢 I'm currently working on some **Java Spring Boot, Angular and Nativescript**
 - 📫 Stay in Jakarta, Indonesia
 
 
 ## 📊 My Stat
-
 <img src="https://github-readme-stats.vercel.app/api?username=dyazincahya&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dyazincahya&layout=compact">
 <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyazincahya&layout=compact"-->
