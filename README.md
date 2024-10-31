@@ -8,13 +8,13 @@
 
 
 ## 📊 My Stat
-<img src="https://github-readme-stats.vercel.app/api?username=dyazincahya&show_icons=true">
+<!-- img src="https://github-readme-stats.vercel.app/api?username=dyazincahya&show_icons=true"-->
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dyazincahya&layout=compact">
 <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyazincahya&layout=compact"-->
 <!--img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dyazincahya"-->
 
 
-# Blog posts
+## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Membuat ListView bentuk simple dan advanced di Nativescript](https://www.kang-cahya.com/2024/06/membuat-listview-bentuk-simple-dan.html)
 - [Daftar Repositori Plugin Nativescript yang cukup stabil dari komunitas yang bisa kamu gunakan](https://www.kang-cahya.com/2024/05/daftar-repositori-plugin-nativescript.html)
