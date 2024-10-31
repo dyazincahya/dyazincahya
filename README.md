@@ -16,4 +16,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Membuat ListView bentuk simple dan advanced di Nativescript](https://www.kang-cahya.com/2024/06/membuat-listview-bentuk-simple-dan.html)
+- [Daftar Repositori Plugin Nativescript yang cukup stabil dari komunitas yang bisa kamu gunakan](https://www.kang-cahya.com/2024/05/daftar-repositori-plugin-nativescript.html)
+- [Membuat Bottom Sheet di Nativescript 8 &lpar;Core Javascript&rpar;](https://www.kang-cahya.com/2024/05/membuat-bottom-sheet-di-nativescript-8.html)
+- [Cara mudah membuat fungsi simpan Nomor Handphone tanpa Plugin dan tanpa Permission di Nativescript 8 &lpar;Core Javascript&rpar;](https://www.kang-cahya.com/2024/05/cara-mudah-membuat-fungsi-simpan-nomor.html)
+- [Cara mudah membuat Http Request di Nativescript 8 &lpar;Core Javascript&rpar;](https://www.kang-cahya.com/2024/05/cara-mudah-membuat-http-request-di.html)
 <!-- BLOG-POST-LIST:END -->
