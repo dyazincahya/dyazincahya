@@ -16,9 +16,9 @@
 
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Face Detection dan Face Recognition di Angular dengan face-api.js &lpar;Tensorflow&rpar;](https://www.kang-cahya.com/2024/11/face-detection-dan-face-recognition-di.html)
 - [Tips Angular: Cara Mengatasi Autofill Browser pada Form Input](https://www.kang-cahya.com/2024/11/tips-angular-cara-mengatasi-autofill.html)
 - [Cara Mengatasi Masalah Eksekusi index.html dan Kode open grab di server Nginx](https://www.kang-cahya.com/2024/11/cara-mengatasi-masalah-eksekusi.html)
 - [Cara Menerapkan Pace.js di Angular untuk Loading Indicator yang Dinamis](https://www.kang-cahya.com/2024/11/cara-menerapkan-pacejs-di-angular-untuk.html)
 - [API Kamus Besar Bahasa Indonesia &lpar;KBBI&rpar; dengan PHP dan Codeigniter 4](https://www.kang-cahya.com/2024/11/api-kamus-besar-bahasa-indonesia-kbbi.html)
-- [Solusi sederhana jika Bluestacks Tidak Terdeteksi oleh ADB](https://www.kang-cahya.com/2024/11/solusi-sederhana-jika-bluestacks-tidak.html)
 <!-- BLOG-POST-LIST:END -->
