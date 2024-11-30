@@ -16,9 +16,9 @@
 
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cara Mendapatkan Nama Negara Berdasarkan Zona Waktu di Browser &lpar;Menggunakan TypeScript dan JavaScript&rpar;](https://www.kang-cahya.com/2024/11/cara-mendapatkan-nama-negara-berdasarkan-zona.html)
 - [Membandingkan Pendekatan NgModule vs. Standalone Component dalam Membuat Library Angular](https://www.kang-cahya.com/2024/11/membandingkan-pendekatan-ngmodule-vs.html)
 - [Face Detection dan Face Recognition di Angular dengan face-api.js &lpar;Tensorflow&rpar;](https://www.kang-cahya.com/2024/11/face-detection-dan-face-recognition-di.html)
 - [Tips Angular: Cara Mengatasi Autofill Browser pada Form Input](https://www.kang-cahya.com/2024/11/tips-angular-cara-mengatasi-autofill.html)
 - [Cara Mengatasi Masalah Eksekusi index.html dan Kode open grab di server Nginx](https://www.kang-cahya.com/2024/11/cara-mengatasi-masalah-eksekusi.html)
-- [Cara Menerapkan Pace.js di Angular untuk Loading Indicator yang Dinamis](https://www.kang-cahya.com/2024/11/cara-menerapkan-pacejs-di-angular-untuk.html)
 <!-- BLOG-POST-LIST:END -->
