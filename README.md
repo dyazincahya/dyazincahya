@@ -16,9 +16,9 @@
 
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ladybird Browser: Solusi Inovatif untuk Dunia Peramban](https://www.kang-cahya.com/2024/12/ladybird-browser-solusi-inovatif-untuk.html)
 - [PHP 8.4: Apa yang Baru, Kelebihan, dan Peningkatan Fitur](https://www.kang-cahya.com/2024/12/php-84-apa-yang-baru-kelebihan-dan.html)
 - [Mengetahui Nama Negara Berdasarkan Zona Waktu di Browser &lpar;Menggunakan TypeScript dan JavaScript&rpar;](https://www.kang-cahya.com/2024/11/mengetahui-nama-negara-berdasarkan-zona.html)
 - [Membandingkan Pendekatan NgModule vs. Standalone Component dalam Membuat Library Angular](https://www.kang-cahya.com/2024/11/membandingkan-pendekatan-ngmodule-vs.html)
 - [Face Detection dan Face Recognition di Angular dengan face-api.js &lpar;Tensorflow&rpar;](https://www.kang-cahya.com/2024/11/face-detection-dan-face-recognition-di.html)
-- [Tips Angular: Cara Mengatasi Autofill Browser pada Form Input](https://www.kang-cahya.com/2024/11/tips-angular-cara-mengatasi-autofill.html)
 <!-- BLOG-POST-LIST:END -->
