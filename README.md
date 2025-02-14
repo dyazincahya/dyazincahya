@@ -16,7 +16,7 @@
 
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deepface: Pustaka Pengenalan Wajah dan Analisis Atribut Wajah Ringan untuk Python](https://www.kang-cahya.com/2025/02/deepface-pustaka-pengenalan-wajah-dan.html)
+- [DeepFace: Pustaka Pengenalan Wajah dan Analisis Atribut Wajah Ringan untuk Python](https://www.kang-cahya.com/2025/02/deepface-pustaka-pengenalan-wajah-dan.html)
 - [Ladybird Browser: Solusi Inovatif untuk Dunia Peramban](https://www.kang-cahya.com/2024/12/ladybird-browser-solusi-inovatif-untuk.html)
 - [PHP 8.4: Apa yang Baru, Kelebihan, dan Peningkatan Fitur](https://www.kang-cahya.com/2024/12/php-84-apa-yang-baru-kelebihan-dan.html)
 - [Mengetahui Nama Negara Berdasarkan Zona Waktu di Browser &lpar;Menggunakan TypeScript dan JavaScript&rpar;](https://www.kang-cahya.com/2024/11/mengetahui-nama-negara-berdasarkan-zona.html)
