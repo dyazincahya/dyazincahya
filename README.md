@@ -16,9 +16,9 @@
 
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DeepFace: Pustaka Pengenalan Wajah dan Analisis Atribut Wajah Ringan untuk Python](https://www.kang-cahya.com/2025/02/deepface-pustaka-pengenalan-wajah-dan.html)
-- [Ladybird Browser: Solusi Inovatif untuk Dunia Peramban](https://www.kang-cahya.com/2024/12/ladybird-browser-solusi-inovatif-untuk.html)
-- [PHP 8.4: Apa yang Baru, Kelebihan, dan Peningkatan Fitur](https://www.kang-cahya.com/2024/12/php-84-apa-yang-baru-kelebihan-dan.html)
-- [Mengetahui Nama Negara Berdasarkan Zona Waktu di Browser &lpar;Menggunakan TypeScript dan JavaScript&rpar;](https://www.kang-cahya.com/2024/11/mengetahui-nama-negara-berdasarkan-zona.html)
-- [Membandingkan Pendekatan NgModule vs. Standalone Component dalam Membuat Library Angular](https://www.kang-cahya.com/2024/11/membandingkan-pendekatan-ngmodule-vs.html)
+- [DeepFace: CPU vs GPU, Mana yang Lebih Baik? &lpar;part 6&rpar;](https://www.kang-cahya.com/2025/02/deepface-cpu-vs-gpu-mana-yang-lebih-baik.html)
+- [DeepFace: Cara Mudah Menggunakan Fungsi Represent &lpar;part 5&rpar;](https://www.kang-cahya.com/2025/02/deepface-cara-mudah-menggunakan-fungsi-represent.html)
+- [DeepFace: Cara Mudah Menggunakan Fungsi Analyze &lpar;part 4&rpar;](https://www.kang-cahya.com/2025/02/deepface-cara-mudah-menggunakan-fungsi-analyze.html)
+- [DeepFace: Cara Mudah Menggunakan Fungsi Verify &lpar;part 3&rpar;](https://www.kang-cahya.com/2025/02/deepface-cara-mudah-menggunakan-fungsi-verify.html)
+- [DeepFace: Cara Instalasi Dengan Mudah Menggunakan Docker &lpar;part 2&rpar;](https://www.kang-cahya.com/2025/02/deepface-cara-instalasi-dengan-mudah-menggunakan-docker.html)
 <!-- BLOG-POST-LIST:END -->
