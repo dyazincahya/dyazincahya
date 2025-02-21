@@ -16,9 +16,9 @@
 
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mengenal tentang apa itu Physical RAM dan Virtual RAM](https://www.kang-cahya.com/2025/02/mengenal-tentang-apa-itu-physical-ram.html)
 - [DeepFace: CPU vs GPU, Mana yang Lebih Baik? &lpar;part 6&rpar;](https://www.kang-cahya.com/2025/02/deepface-cpu-vs-gpu-mana-yang-lebih-baik.html)
 - [DeepFace: Cara Mudah Menggunakan Fungsi Represent &lpar;part 5&rpar;](https://www.kang-cahya.com/2025/02/deepface-cara-mudah-menggunakan-fungsi-represent.html)
 - [DeepFace: Cara Mudah Menggunakan Fungsi Analyze &lpar;part 4&rpar;](https://www.kang-cahya.com/2025/02/deepface-cara-mudah-menggunakan-fungsi-analyze.html)
 - [DeepFace: Cara Mudah Menggunakan Fungsi Verify &lpar;part 3&rpar;](https://www.kang-cahya.com/2025/02/deepface-cara-mudah-menggunakan-fungsi-verify.html)
-- [DeepFace: Cara Instalasi Dengan Mudah Menggunakan Docker &lpar;part 2&rpar;](https://www.kang-cahya.com/2025/02/deepface-cara-instalasi-dengan-mudah-menggunakan-docker.html)
 <!-- BLOG-POST-LIST:END -->
