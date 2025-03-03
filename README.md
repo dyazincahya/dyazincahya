@@ -16,9 +16,9 @@
 
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cara Mendapatkan Tanggal Hijriyah di JavaScript dengan dan tanpa Library](https://www.kang-cahya.com/2025/03/cara-mendapatkan-tanggal-hijriyah-di.html)
 - [CDN Gratis: Statically.io vs jsDelivr.com manakah yang lebih baik?](https://www.kang-cahya.com/2025/03/cdn-gratis-staticallyio-vs-jsdelivrcom.html)
 - [Cara Menambahkan dan Menghapus Package di Golang](https://www.kang-cahya.com/2025/02/cara-menambahkan-dan-menghapus-package.html)
 - [Cara mudah mengecek penggunaan memori RAM dan swap di Linux](https://www.kang-cahya.com/2025/02/cara-mudah-mengecek-penggunaan-memori.html)
 - [Mengenal tentang apa itu Physical RAM dan Virtual RAM](https://www.kang-cahya.com/2025/02/mengenal-tentang-apa-itu-physical-ram.html)
-- [DeepFace: CPU vs GPU, Mana yang Lebih Baik? &lpar;part 6&rpar;](https://www.kang-cahya.com/2025/02/deepface-cpu-vs-gpu-mana-yang-lebih-baik.html)
 <!-- BLOG-POST-LIST:END -->
