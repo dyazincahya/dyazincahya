@@ -16,9 +16,9 @@
 
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Install and Use Font Awesome in NativeScript 8](https://www.kang-cahya.com/2025/07/how-to-install-and-use-font-awesome-in.html)
 - [Cara Membuat Base URL Dinamis dan Flexible di CodeIgniter 4 &lpar;Tanpa Ribet Ubah Config&rpar;](https://www.kang-cahya.com/2025/05/cara-membuat-base-url-dinamis-dan.html)
 - [Tutorial Lengkap Membuat REST API sederhana dengan JWT di CodeIgniter 4](https://www.kang-cahya.com/2025/05/tutorial-lengkap-membuat-rest-api.html)
 - [Rekomendasi Distro Linux Favorit 2025 untuk PC Lawas &lpar;Part 2&rpar;: Ringan, Keren, dan Hemat RAM!](https://www.kang-cahya.com/2025/04/rekomendasi-distro-linux-favorit-2025-part-2.html)
 - [Rekomendasi Distro Linux Favorit 2025 untuk PC Lawas &lpar;Part 1&rpar;: Ringan, Keren, dan Hemat RAM!](https://www.kang-cahya.com/2025/04/rekomendasi-distro-linux-favorit-2025.html)
-- [Cara Mendapatkan Tanggal Hijriyah di JavaScript dengan dan tanpa Library](https://www.kang-cahya.com/2025/03/cara-mendapatkan-tanggal-hijriyah-di.html)
 <!-- BLOG-POST-LIST:END -->
