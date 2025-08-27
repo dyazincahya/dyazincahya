@@ -16,9 +16,9 @@
 
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cara Menggunakan Document Picker &amp; Image Picker di NativeScript &lpar;Lengkap dengan Base64 Upload&rpar;](https://www.kang-cahya.com/2025/08/cara-menggunakan-document-picker-image.html)
 - [Securing JavaScript Code in NativeScript with Obfuscator in Webpack](https://www.kang-cahya.com/2025/07/securing-javascript-code-in.html)
 - [Mengamankan Kode JavaScript di NativeScript dengan Obfuscator pada Webpack](https://www.kang-cahya.com/2025/07/mengamankan-kode-javascript-di.html)
 - [How to Install and Use Fontawesome in NativeScript 8](https://www.kang-cahya.com/2025/07/how-to-install-and-use-font-awesome-in.html)
 - [Cara Membuat Base URL Dinamis dan Flexible di CodeIgniter 4 &lpar;Tanpa Ribet Ubah Config&rpar;](https://www.kang-cahya.com/2025/05/cara-membuat-base-url-dinamis-dan.html)
-- [Tutorial Lengkap Membuat REST API sederhana dengan JWT di CodeIgniter 4](https://www.kang-cahya.com/2025/05/tutorial-lengkap-membuat-rest-api.html)
 <!-- BLOG-POST-LIST:END -->
