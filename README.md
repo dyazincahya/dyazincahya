@@ -16,9 +16,9 @@
 
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cara Install Zed di Windows: Editor Ringan, Cepat, dan Minimalis](https://www.kang-cahya.com/2025/09/cara-install-zed-di-windows-editor.html)
 - [CachyOS vs Linux Mint, Ubuntu &amp; Distro Populer Lainnya – Pilih yang Tepat untuk Anda](https://www.kang-cahya.com/2025/09/cachyos-vs-linux-mint-ubuntu-distro.html)
 - [Cara Menggunakan Document Picker &amp; Image Picker di NativeScript &lpar;Lengkap dengan Base64 Upload&rpar;](https://www.kang-cahya.com/2025/08/cara-menggunakan-document-picker-image.html)
 - [Securing JavaScript Code in NativeScript with Obfuscator in Webpack](https://www.kang-cahya.com/2025/07/securing-javascript-code-in.html)
 - [Mengamankan Kode JavaScript di NativeScript dengan Obfuscator pada Webpack](https://www.kang-cahya.com/2025/07/mengamankan-kode-javascript-di.html)
-- [How to Install and Use Fontawesome in NativeScript 8](https://www.kang-cahya.com/2025/07/how-to-install-and-use-font-awesome-in.html)
 <!-- BLOG-POST-LIST:END -->
