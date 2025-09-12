@@ -16,9 +16,9 @@
 
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Zig vs Rust: Mana yang Lebih Cocok untuk Pengganti C?](https://www.kang-cahya.com/2025/09/zig-vs-rust-mana-yang-lebih-cocok-untuk.html)
 - [Tauri vs Python Desktop: Kapan Harus Memilih? &lpar;Panduan Skala, Plus-Minus, dan Use Case&rpar;](https://www.kang-cahya.com/2025/09/tauri-vs-python-desktop-kapan-harus.html)
 - [Cara Install Zed di Windows: Editor Ringan, Cepat, dan Minimalis](https://www.kang-cahya.com/2025/09/cara-install-zed-di-windows-editor.html)
 - [CachyOS vs Linux Mint, Ubuntu &amp; Distro Populer Lainnya – Pilih yang Tepat untuk Anda](https://www.kang-cahya.com/2025/09/cachyos-vs-linux-mint-ubuntu-distro.html)
 - [Cara Menggunakan Document Picker &amp; Image Picker di NativeScript &lpar;Lengkap dengan Base64 Upload&rpar;](https://www.kang-cahya.com/2025/08/cara-menggunakan-document-picker-image.html)
-- [Securing JavaScript Code in NativeScript with Obfuscator in Webpack](https://www.kang-cahya.com/2025/07/securing-javascript-code-in.html)
 <!-- BLOG-POST-LIST:END -->
