@@ -16,9 +16,9 @@
 
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cara Mengatasi Error “Unable to Mount” Harddisk NTFS di Linux](https://www.kang-cahya.com/2025/09/cara-mengatasi-error-unable-to-mount.html)
 - [TIOBE Index September 2025: Perl Kembali ke Top 10 — Apa Artinya untuk Developer?](https://www.kang-cahya.com/2025/09/tiobe-index-september-2025-perl-kembali.html)
 - [Zig vs Rust: Mana yang Lebih Cocok untuk Pengganti C?](https://www.kang-cahya.com/2025/09/zig-vs-rust-mana-yang-lebih-cocok-untuk.html)
 - [Tauri vs Python Desktop: Kapan Harus Memilih? &lpar;Panduan Skala, Plus-Minus, dan Use Case&rpar;](https://www.kang-cahya.com/2025/09/tauri-vs-python-desktop-kapan-harus.html)
 - [Cara Install Zed di Windows: Editor Ringan, Cepat, dan Minimalis](https://www.kang-cahya.com/2025/09/cara-install-zed-di-windows-editor.html)
-- [CachyOS vs Linux Mint, Ubuntu &amp; Distro Populer Lainnya – Pilih yang Tepat untuk Anda](https://www.kang-cahya.com/2025/09/cachyos-vs-linux-mint-ubuntu-distro.html)
 <!-- BLOG-POST-LIST:END -->
