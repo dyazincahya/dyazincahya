@@ -16,9 +16,9 @@
 
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WinUtil &lpar;ChrisTitusTech&rpar; — Review &amp; Panduan Lengkap: Otomatisasi, Debloat &amp; Tweak Windows](https://www.kang-cahya.com/2025/10/winutil-christitustech-review-panduan.html)
+- [Optimizer &lpar;hellzerg&rpar; — Review &amp; Panduan: Alat Privasi &amp; Optimasi Windows](https://www.kang-cahya.com/2025/10/optimizer-hellzerg-review-panduan-alat.html)
+- [GTweak — Review &amp; Tinjauan: Tool Portable untuk Setup Windows Ideal](https://www.kang-cahya.com/2025/10/gtweak-review-tinjauan-tool-portable.html)
 - [Sparkle — Review &amp; Panduan Singkat: Debloat dan Optimasi Windows](https://www.kang-cahya.com/2025/10/sparkle-review-panduan-singkat-debloat.html)
 - [IPv4 vs IPv6: Mana yang Lebih Baik &amp; Cara Kerja IPv4-over-IPv6 &lpar;464XLAT &amp; MAP-T&rpar; — Panduan Singkat](https://www.kang-cahya.com/2025/10/ipv4-vs-ipv6-mana-yang-lebih-baik-cara.html)
-- [Cara Mengatasi Error “Unable to Mount” Harddisk NTFS di Linux](https://www.kang-cahya.com/2025/09/cara-mengatasi-error-unable-to-mount.html)
-- [TIOBE Index September 2025: Perl Kembali ke Top 10 — Apa Artinya untuk Developer?](https://www.kang-cahya.com/2025/09/tiobe-index-september-2025-perl-kembali.html)
-- [Zig vs Rust: Mana yang Lebih Cocok untuk Pengganti C?](https://www.kang-cahya.com/2025/09/zig-vs-rust-mana-yang-lebih-cocok-untuk.html)
 <!-- BLOG-POST-LIST:END -->
