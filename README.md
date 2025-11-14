@@ -16,9 +16,9 @@
 
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cara Menjalankan Aplikasi Windows di Linux: Panduan Lengkap dan Praktis](https://www.kang-cahya.com/2025/11/cara-menjalankan-aplikasi-windows-di.html)
 - [MySQL Gratis vs Berbayar: Mitos dan Fakta Kekuatannya &lpar;Studi Kasus: MySQL di cPanel&rpar;](https://www.kang-cahya.com/2025/11/mysql-gratis-vs-berbayar-mitos-dan.html)
 - [Font Sidebar Sublime Text 4 Terlalu Kecil? Begini Cara Membesarkannya](https://www.kang-cahya.com/2025/10/font-sidebar-sublime-text-4-terlalu.html)
 - [WinUtil &lpar;ChrisTitusTech&rpar; — Review &amp; Panduan Lengkap: Otomatisasi, Debloat &amp; Tweak Windows](https://www.kang-cahya.com/2025/10/winutil-christitustech-review-panduan.html)
 - [Optimizer &lpar;hellzerg&rpar; — Review &amp; Panduan: Alat Privasi &amp; Optimasi Windows](https://www.kang-cahya.com/2025/10/optimizer-hellzerg-review-panduan-alat.html)
-- [GTweak — Review &amp; Tinjauan: Tool Portable untuk Setup Windows Ideal](https://www.kang-cahya.com/2025/10/gtweak-review-tinjauan-tool-portable.html)
 <!-- BLOG-POST-LIST:END -->
