@@ -7,13 +7,6 @@
 - 📫 Stay in Jakarta, Indonesia
 
 
-## 📊 My Stat
-<!-- img src="https://github-readme-stats.vercel.app/api?username=dyazincahya&show_icons=true"-->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=dyazincahya&layout=compact">
-<!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyazincahya&layout=compact"-->
-<!--img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dyazincahya"-->
-
-
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Panduan Singkat RAG di Java: Cara Kerja Retrieval-Augmented Generation dengan LangChain4j &amp; Spring AI](https://www.kang-cahya.com/2025/11/panduan-singkat-rag-di-java-cara-kerja.html)
