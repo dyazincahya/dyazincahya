@@ -3,7 +3,7 @@
 
 <h1>Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30" alt="hi">, I'm Cahya</h1>
 
-- 🏢 I'm currently working on some **Java Spring Boot, Angular, NextJS, ReactJS and Nativescript**
+- 🏢 I'm currently working on some **Java Spring Boot, Angular, NextJS, ReactJS and NativeScript**
 - 📫 Stay in Jakarta, Indonesia
 
 
