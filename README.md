@@ -9,9 +9,9 @@
 
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tauri vs Electron: Kenapa Masalah Safari di macOS Bisa Jadi Dealbreaker?](https://www.kang-cahya.com/2026/02/tauri-vs-electron-kenapa-masalah-safari.html)
 - [Automasi Deploy Aplikasi React &lpar;Vite&rpar; ke Shared Hosting Menggunakan GitHub Actions](https://www.kang-cahya.com/2026/01/automasi-deploy-aplikasi-react-vite-ke.html)
 - [Panduan Singkat RAG di Java: Cara Kerja Retrieval-Augmented Generation dengan LangChain4j &amp; Spring AI](https://www.kang-cahya.com/2025/11/panduan-singkat-rag-di-java-cara-kerja.html)
 - [Cara Menjalankan Aplikasi Windows di Linux: Panduan Lengkap dan Praktis](https://www.kang-cahya.com/2025/11/cara-menjalankan-aplikasi-windows-di.html)
 - [MySQL Gratis vs Berbayar: Mitos dan Fakta Kekuatannya &lpar;Studi Kasus: MySQL di cPanel&rpar;](https://www.kang-cahya.com/2025/11/mysql-gratis-vs-berbayar-mitos-dan.html)
-- [Font Sidebar Sublime Text 4 Terlalu Kecil? Begini Cara Membesarkannya](https://www.kang-cahya.com/2025/10/font-sidebar-sublime-text-4-terlalu.html)
 <!-- BLOG-POST-LIST:END -->
