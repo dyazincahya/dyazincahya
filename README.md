@@ -9,9 +9,9 @@
 
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Paradoks JavaScript: Pisau Lipat Swiss Serbaguna yang Tetap Membutuhkan Alat Berat di Level Enterprise](https://www.kang-cahya.com/2026/06/paradoks-javascript-pisau-lipat-swiss.html)
+- [Menghadirkan Kecerdasan Buatan di Browser: Keajaiban Deteksi Wajah Real-Time dengan TensorFlow.js](https://www.kang-cahya.com/2026/06/menghadirkan-kecerdasan-buatan-di.html)
 - [Vibecoding Bukan Berarti Bebas Koding, Kamu Tetaplah Seorang Code Reviewer](https://www.kang-cahya.com/2026/06/vibecoding-bukan-berarti-bebas-koding.html)
 - [Next.js Image vs Image Unoptimized vs  HTML: Mana yang Harus Kamu Pilih?](https://www.kang-cahya.com/2026/04/nextjs-image-vs-image-unoptimized-vs.html)
 - [Memahami RSA Encryption dan Implementasinya di PHP &lpar;CodeIgniter 4&rpar; untuk Mengamankan API](https://www.kang-cahya.com/2026/03/memahami-rsa-encryption-dan.html)
-- [Tauri vs Electron: Kenapa Masalah Safari di macOS Bisa Jadi Dealbreaker?](https://www.kang-cahya.com/2026/02/tauri-vs-electron-kenapa-masalah-safari.html)
-- [Automasi Deploy Aplikasi React &lpar;Vite&rpar; ke Shared Hosting Menggunakan GitHub Actions](https://www.kang-cahya.com/2026/01/automasi-deploy-aplikasi-react-vite-ke.html)
 <!-- BLOG-POST-LIST:END -->
