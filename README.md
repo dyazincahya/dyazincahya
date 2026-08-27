@@ -9,9 +9,9 @@
 
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Desktop Environment Linux: Dari yang Paling Ringan hingga Paling Lengkap](https://www.kang-cahya.com/2026/08/desktop-environment-linux-dari-yang.html)
-- [Cara Mengatasi Error &quot;listen EACCES: permission denied 0.0.0.0:3000&quot; di Next.js &lpar;Windows&rpar;](https://www.kang-cahya.com/2026/07/cara-mengatasi-error-listen-eacces.html)
-- [Kebenaran Pahit Software Engineering: Kode Sempurna Tanpa Pengguna Hanyalah Pajangan GitHub](https://www.kang-cahya.com/2026/06/kebenaran-pahit-software-engineering.html)
-- [Paradoks JavaScript: Pisau Lipat Swiss Serbaguna yang Tetap Membutuhkan Alat Berat di Level Enterprise](https://www.kang-cahya.com/2026/06/paradoks-javascript-pisau-lipat-swiss.html)
-- [Menghadirkan Kecerdasan Buatan di Browser: Keajaiban Deteksi Wajah Real-Time dengan TensorFlow.js](https://www.kang-cahya.com/2026/06/menghadirkan-kecerdasan-buatan-di.html)
+- [Polymer Project ke Lit: Evolusi Web Components Modern dari Google](https://www.kang-cahya.com/2026/08/polymer-project-ke-lit-evolusi-web.html)
+- [Omarchy dan Hyprland: Produktivitas Tinggi dengan Workflow Keyboard-Centric](https://www.kang-cahya.com/2026/08/omarchy-dan-hyprland-produktivitas.html)
+- [WebP vs JPEG XL &lpar;JXL&rpar;: Perbedaan, Kelebihan, dan Dukungan Browser](https://www.kang-cahya.com/2026/08/webp-vs-jpeg-xl-jxl-perbedaan-kelebihan.html)
+- [NativeScript vs React Native: Perbandingan Arsitektur, Native API, Komunitas, dan Tooling](https://www.kang-cahya.com/2026/08/nativescript-vs-react-native.html)
+- [5 Cara Menjalankan File EXE Windows di Linux](https://www.kang-cahya.com/2026/08/5-cara-menjalankan-file-exe-windows-di.html)
 <!-- BLOG-POST-LIST:END -->
