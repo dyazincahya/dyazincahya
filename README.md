@@ -9,9 +9,9 @@
 
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Bahasa Pemrograman yang Paling Krusial di Industri Perbankan Modern](https://www.kang-cahya.com/2026/08/10-bahasa-pemrograman-yang-paling.html)
 - [Polymer Project ke Lit: Evolusi Web Components Modern dari Google](https://www.kang-cahya.com/2026/08/polymer-project-ke-lit-evolusi-web.html)
 - [Omarchy dan Hyprland: Produktivitas Tinggi dengan Workflow Keyboard-Centric](https://www.kang-cahya.com/2026/08/omarchy-dan-hyprland-produktivitas.html)
 - [WebP vs JPEG XL &lpar;JXL&rpar;: Perbedaan, Kelebihan, dan Dukungan Browser](https://www.kang-cahya.com/2026/08/webp-vs-jpeg-xl-jxl-perbedaan-kelebihan.html)
 - [NativeScript vs React Native: Perbandingan Arsitektur, Native API, Komunitas, dan Tooling](https://www.kang-cahya.com/2026/08/nativescript-vs-react-native.html)
-- [5 Cara Menjalankan File EXE Windows di Linux](https://www.kang-cahya.com/2026/08/5-cara-menjalankan-file-exe-windows-di.html)
 <!-- BLOG-POST-LIST:END -->
