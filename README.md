@@ -9,9 +9,9 @@
 
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kenapa r=4, w=2, dan x=1 di Permission Linux?](https://www.kang-cahya.com/2026/09/kenapa-r4-w2-dan-x1-di-permission-linux.html)
 - [Cara Mudah Memahami Permission Linux: chmod, chown, chgrp, rwx, 755 dan 644](https://www.kang-cahya.com/2026/09/cara-mudah-memahami-permission-linux.html)
 - [Alternatif Electron untuk Desktop App: Electron, NW.js, Tauri 2, Wails, dan Neutralinojs](https://www.kang-cahya.com/2026/09/alternatif-electron-untuk-desktop-app.html)
 - [Kembali ke Firefox Setelah Lama Menggunakan Google Chrome: Ini Alasan Saya](https://www.kang-cahya.com/2026/08/kembali-ke-firefox-setelah-lama.html)
 - [Fork vs SourceGit: Rekomendasi Git GUI yang Nyaman untuk Developer](https://www.kang-cahya.com/2026/08/fork-vs-sourcegit-rekomendasi-git-gui.html)
-- [Google Perketat Penggunaan RAM Android Mulai 2027, Bagaimana Nasib React Native, NativeScript, Capacitor, dan Cordova?](https://www.kang-cahya.com/2026/08/google-perketat-penggunaan-ram-android.html)
 <!-- BLOG-POST-LIST:END -->
