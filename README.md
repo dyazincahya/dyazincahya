@@ -9,9 +9,9 @@
 
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux Distros dan Package Manager: APT, Pacman, DNF, Zypper, APK, XBPS, Flatpak, dan Snap](https://www.kang-cahya.com/2026/09/linux-distros-dan-package-manager-apt.html)
+- [Sekarang Semua Bahasa Serba Native untuk Mobile 😄](https://www.kang-cahya.com/2026/09/sekarang-semua-bahasa-serba-native.html)
 - [Smadav Kini Punya AI, Nostalgia Antivirus Lokal Era Windows XP dan Windows 7](https://www.kang-cahya.com/2026/09/smadav-kini-punya-ai-nostalgia.html)
 - [6 Rekomendasi Linux dengan Tampilan Mirip macOS](https://www.kang-cahya.com/2026/09/6-rekomendasi-linux-dengan-tampilan.html)
 - [Kenapa r=4, w=2, dan x=1 di Permission Linux?](https://www.kang-cahya.com/2026/09/kenapa-r4-w2-dan-x1-di-permission-linux.html)
-- [Cara Mudah Memahami Permission Linux: chmod, chown, chgrp, rwx, 755 dan 644](https://www.kang-cahya.com/2026/09/cara-mudah-memahami-permission-linux.html)
-- [Alternatif Electron untuk Desktop App: Electron, NW.js, Tauri 2, Wails, dan Neutralinojs](https://www.kang-cahya.com/2026/09/alternatif-electron-untuk-desktop-app.html)
 <!-- BLOG-POST-LIST:END -->
