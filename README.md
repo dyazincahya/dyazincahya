@@ -9,9 +9,9 @@
 
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mengenal Bahasa V: Sintaks Sederhana, Native Binary, dan Ambisi di Systems Programming](https://www.kang-cahya.com/2026/09/mengenal-bahasa-v-sintaks-sederhana.html)
 - [Linux Distros dan Package Manager: APT, Pacman, DNF, Zypper, APK, XBPS, Flatpak, dan Snap](https://www.kang-cahya.com/2026/09/linux-distros-dan-package-manager-apt.html)
 - [Sekarang Semua Bahasa Serba Native untuk Mobile 😄](https://www.kang-cahya.com/2026/09/sekarang-semua-bahasa-serba-native.html)
 - [Smadav Kini Punya AI, Nostalgia Antivirus Lokal Era Windows XP dan Windows 7](https://www.kang-cahya.com/2026/09/smadav-kini-punya-ai-nostalgia.html)
 - [6 Rekomendasi Linux dengan Tampilan Mirip macOS](https://www.kang-cahya.com/2026/09/6-rekomendasi-linux-dengan-tampilan.html)
-- [Kenapa r=4, w=2, dan x=1 di Permission Linux?](https://www.kang-cahya.com/2026/09/kenapa-r4-w2-dan-x1-di-permission-linux.html)
 <!-- BLOG-POST-LIST:END -->
