@@ -9,9 +9,9 @@
 
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ladybird Browser Makin Menarik: Rust, Video Playback, dan Download Pause/Resume](https://www.kang-cahya.com/2026/09/ladybird-browser-makin-menarik-rust.html)
 - [Kilas Balik Aplikasi Remote Server yang Pernah Saya Gunakan: PuTTY, FileZilla, WinSCP, hingga Termius](https://www.kang-cahya.com/2026/09/kilas-balik-aplikasi-remote-server-yang.html)
 - [Masih Menulis Blog di Era AI: Ketika Cara Kita Mencari Informasi Mulai Berubah](https://www.kang-cahya.com/2026/09/masih-menulis-blog-di-era-ai-ketika.html)
 - [Mengenal Bahasa V: Sintaks Sederhana, Native Binary, dan Ambisi di Systems Programming](https://www.kang-cahya.com/2026/09/mengenal-bahasa-v-sintaks-sederhana.html)
 - [Linux Distros dan Package Manager: APT, Pacman, DNF, Zypper, APK, XBPS, Flatpak, dan Snap](https://www.kang-cahya.com/2026/09/linux-distros-dan-package-manager-apt.html)
-- [Sekarang Semua Bahasa Serba Native untuk Mobile 😄](https://www.kang-cahya.com/2026/09/sekarang-semua-bahasa-serba-native.html)
 <!-- BLOG-POST-LIST:END -->
