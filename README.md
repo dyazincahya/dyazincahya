@@ -9,9 +9,9 @@
 
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kekurangan Tauri Dibandingkan Electron: Ketergantungan pada WebView](https://www.kang-cahya.com/2026/09/kekurangan-tauri-dibandingkan-electron.html)
 - [Linux Kok Berbayar? Mengenal Zorin OS Pro dan Alasan di Baliknya](https://www.kang-cahya.com/2026/09/linux-kok-berbayar-mengenal-zorin-os.html)
 - [Perbandingan npm, pnpm, Yarn, Bun, dan Ant: Sejarah, Kelebihan, Kekurangan, dan Peruntukannya](https://www.kang-cahya.com/2026/09/perbandingan-npm-pnpm-yarn-bun-dan-ant.html)
 - [Ladybird Browser Makin Menarik: Rust, Video Playback, dan Download Pause/Resume](https://www.kang-cahya.com/2026/09/ladybird-browser-makin-menarik-rust.html)
 - [Kilas Balik Aplikasi Remote Server yang Pernah Saya Gunakan: PuTTY, FileZilla, WinSCP, hingga Termius](https://www.kang-cahya.com/2026/09/kilas-balik-aplikasi-remote-server-yang.html)
-- [Masih Menulis Blog di Era AI: Ketika Cara Kita Mencari Informasi Mulai Berubah](https://www.kang-cahya.com/2026/09/masih-menulis-blog-di-era-ai-ketika.html)
 <!-- BLOG-POST-LIST:END -->
