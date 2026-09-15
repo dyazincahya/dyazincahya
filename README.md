@@ -9,9 +9,9 @@
 
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GTK vs Qt: Perbedaan, Kelebihan, Kekurangan, dan Contoh Aplikasi](https://www.kang-cahya.com/2026/09/gtk-vs-qt-perbedaan-kelebihan.html)
 - [Nostalgia Main PlayStation di PC? Ini Rekomendasi Emulator PS1 hingga PS4](https://www.kang-cahya.com/2026/09/nostalgia-main-playstation-di-pc-ini.html)
 - [Distro Linux Indonesia: Daftar dan Sejarah Singkat Distro Linux Buatan Indonesia](https://www.kang-cahya.com/2026/09/distro-linux-indonesia-daftar-dan.html)
 - [Kekurangan Tauri Dibandingkan Electron: Ketergantungan pada WebView](https://www.kang-cahya.com/2026/09/kekurangan-tauri-dibandingkan-electron.html)
 - [Linux Kok Berbayar? Mengenal Zorin OS Pro dan Alasan di Baliknya](https://www.kang-cahya.com/2026/09/linux-kok-berbayar-mengenal-zorin-os.html)
-- [Perbandingan npm, pnpm, Yarn, Bun, dan Ant: Sejarah, Kelebihan, Kekurangan, dan Peruntukannya](https://www.kang-cahya.com/2026/09/perbandingan-npm-pnpm-yarn-bun-dan-ant.html)
 <!-- BLOG-POST-LIST:END -->
