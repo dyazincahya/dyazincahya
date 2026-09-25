@@ -9,9 +9,9 @@
 
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MuMuPlayer: Emulator Android Ringan untuk Developer dan Testing Aplikasi](https://www.kang-cahya.com/2026/09/mumuplayer-emulator-android-ringan.html)
 - [Evolusi Tampilan Zorin OS dari Versi 1.0 hingga Zorin OS 18](https://www.kang-cahya.com/2026/09/evolusi-tampilan-zorin-os-dari-versi-10.html)
 - [AnduinOS: Linux dengan Tampilan yang Akrab bagi Pengguna Windows](https://www.kang-cahya.com/2026/09/anduinos-linux-dengan-tampilan-yang.html)
 - [Nostalgia TeraCopy: Aplikasi Alternatif Copy-Paste Legendaris di PC Windows](https://www.kang-cahya.com/2026/09/nostalgia-teracopy-aplikasi-alternatif.html)
 - [2 Aplikasi Cleaner GUI Terbaik untuk Linux &lpar;Turunan Debian/Ubuntu&rpar;](https://www.kang-cahya.com/2026/09/2-aplikasi-cleaner-gui-terbaik-untuk.html)
-- [Mengupas Asal-Usul Distro Linux: Top 10 Negara Penyumbang Terbanyak](https://www.kang-cahya.com/2026/09/mengupas-asal-usul-distro-linux-top-10.html)
 <!-- BLOG-POST-LIST:END -->
