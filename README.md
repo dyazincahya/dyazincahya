@@ -9,9 +9,9 @@
 
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Review File Pilot: Alternatif File Explorer Windows yang Ringan dan Cepat](https://www.kang-cahya.com/2026/09/review-file-pilot-alternatif-file.html)
 - [Microsoft Copilot Jadi &quot;Super App&quot;, Gabungkan AI Chat, Coding, dan AI Agent](https://www.kang-cahya.com/2026/09/microsoft-copilot-jadi-super-app.html)
 - [MuMuPlayer: Emulator Android Ringan untuk Developer dan Testing Aplikasi](https://www.kang-cahya.com/2026/09/mumuplayer-emulator-android-ringan.html)
 - [Evolusi Tampilan Zorin OS dari Versi 1.0 hingga Zorin OS 18](https://www.kang-cahya.com/2026/09/evolusi-tampilan-zorin-os-dari-versi-10.html)
 - [AnduinOS: Linux dengan Tampilan yang Akrab bagi Pengguna Windows](https://www.kang-cahya.com/2026/09/anduinos-linux-dengan-tampilan-yang.html)
-- [Nostalgia TeraCopy: Aplikasi Alternatif Copy-Paste Legendaris di PC Windows](https://www.kang-cahya.com/2026/09/nostalgia-teracopy-aplikasi-alternatif.html)
 <!-- BLOG-POST-LIST:END -->
