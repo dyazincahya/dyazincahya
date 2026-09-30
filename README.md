@@ -9,9 +9,9 @@
 
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Di Era AI, Membuat Aplikasi Semakin Mudah. Tapi Apakah Aplikasi Kita Digunakan Orang?](https://www.kang-cahya.com/2026/09/di-era-ai-membuat-aplikasi-semakin.html)
 - [Windows Kecanduan dengan WebView2?](https://www.kang-cahya.com/2026/09/windows-kecanduan-dengan-webview2.html)
 - [SystemRescue OS, Bukan OS Harian, tapi Sebuah OS &quot;P3K&quot; untuk Komputer yang Bermasalah](https://www.kang-cahya.com/2026/09/systemrescue-os-bukan-os-harian-tapi.html)
 - [Review File Pilot: Alternatif File Explorer Windows yang Ringan dan Cepat](https://www.kang-cahya.com/2026/09/review-file-pilot-alternatif-file.html)
 - [Microsoft Copilot Jadi &quot;Super App&quot;, Gabungkan AI Chat, Coding, dan AI Agent](https://www.kang-cahya.com/2026/09/microsoft-copilot-jadi-super-app.html)
-- [MuMuPlayer: Emulator Android Ringan untuk Developer dan Testing Aplikasi](https://www.kang-cahya.com/2026/09/mumuplayer-emulator-android-ringan.html)
 <!-- BLOG-POST-LIST:END -->
