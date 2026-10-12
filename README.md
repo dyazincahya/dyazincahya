@@ -9,9 +9,9 @@
 
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Rilis LiteBox, Proyek Open Source Berbasis Rust untuk Menjalankan Program Linux di Windows](https://www.kang-cahya.com/2026/10/microsoft-rilis-litebox-proyek-open.html)
 - [Deno Resmi Bergabung dengan Cloudflare, Menyusul Bun yang Diakuisisi Anthropic](https://www.kang-cahya.com/2026/10/deno-resmi-bergabung-dengan-cloudflare.html)
 - [Paradoks Microsoft: WinUI 3 Terus Dikembangkan, tapi WEBVIEW2 Ada di Mana-mana](https://www.kang-cahya.com/2026/10/paradoks-microsoft-winui-3-terus.html)
 - [PhotoCraft, Alternatif Open Source yang Mencoba Membuat Ulang Photoshop](https://www.kang-cahya.com/2026/10/photocraft-alternatif-open-source-yang.html)
 - [uBlock Origin Hilang dari Chrome, uBlock Origin Lite Jadi Alternatif](https://www.kang-cahya.com/2026/10/ublock-origin-hilang-dari-chrome-ublock.html)
-- [Ulasan Mailflare dan Quickinbox untuk Email Domain Sendiri di Cloudflare](https://www.kang-cahya.com/2026/10/ulasan-mailflare-dan-quickinbox-untuk.html)
 <!-- BLOG-POST-LIST:END -->
